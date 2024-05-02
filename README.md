@@ -1,5 +1,3 @@
-👋 **Hello!** I'm a member of the [CPI-TM](https://cpi-tm.com/) team, a Ukrainian crypto community with over 250 members, each developing in their preferred direction.
-
 📌 **My main interests in the cryptocurrency world are:**
 - Validation
 - Ambassadorship
@@ -24,8 +22,6 @@ Additionally, I write and distribute installation and update instructions within
 
 📌 **Regarding additional social networks and resources:**
 - Mail: asapovnodes@gmail.com
-- GitHub CPI.TM (I am a contributor): [CPITMschool/Scripts](https://github.com/CPITMschool/Scripts)
-- GitHub of my colleague (I am a contributor): [CryptoManUA/cosmos](https://github.com/CryptoManUA/cosmos)
 - Twitter: [MrPacketBrain](https://twitter.com/MrPacketBrain)
 
 From the very beginning of my development in this field, I continue to be inspired by the opportunities and its future, so I will be glad to consider any interesting proposals regarding participation in test or mainnet networks.
