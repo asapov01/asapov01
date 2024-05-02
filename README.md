@@ -6,16 +6,16 @@
 - Active participation in the development of projects we are involved in.
 
 🌐 **I have participated in many test networks, here are some of them:**
-- Cosmos: 
+- **Cosmos**: 
   Warden Protocol,Nibiru, Lava Network, Dymension, Zetachain, Babylon, Side Protocol, Union.
 
-- Polkadot: 
+- **Polkadot**: 
   Subspace, Gear.
 
-- Other blockchains: 
+- **Other blockchains**: 
   Movement, Over Protocol, EigenLayer, Holograph, Shardeum, Starknet, Penumbra, Fleek Network, Namada, Zora(Conduit)
 
-- Mainnet: 
+- **Mainnet**: 
   Pion Network;
 
 Additionally, I write and distribute installation and update instructions within the crypto community, notify about new announcements from projects, and together we explore projects, contribute to them.
